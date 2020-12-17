@@ -1,2 +1,2 @@
-# carrotosint
+# CarrotOsint
 OSINT Scanner
